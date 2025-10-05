@@ -433,8 +433,13 @@ section .title::after {
     border-color: #fff;
 }
 
+#buttons-container{
+    display: flex;
+    gap: 15px;
+}
+
 .project-link {
-    display: inline-block;
+    display:grid;
     background: #fff;
     color: #007bff;
     font-size: 18px;
