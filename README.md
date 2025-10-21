@@ -44,7 +44,7 @@ The goal of this project is to present my professional background and technical 
 ## 📸 Preview
 
 *(Add a screenshot or live link once hosted)*  
-👉 **Live Demo:** [https://Chetanpatil03.github.io/portfolio](https://Chetanpatil03.github.io/portfolio)
+👉 **Live Demo:** [https://Chetanpatil03.github.io/portfolio](https://Chetanpatil03.github.io/portfolio_main)
 
 ---
 
