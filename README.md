@@ -53,7 +53,7 @@ The goal of this project is to present my professional background and technical 
 If you’d like to connect or collaborate, feel free to reach out:
 
 - **Name:** Chetan Patil  
-- **Email:** [your-email@example.com]  
+- **Email:** bachchhavchetan45@gmail.com 
 - **GitHub:** [github.com/Chetanpatil03](https://github.com/Chetanpatil03)  
 - **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
 
