@@ -53,8 +53,4 @@ If you’d like to connect or collaborate, feel free to reach out:
 - **Name:** Chetan Patil  
 - **Email:** bachchhavchetan45@gmail.com 
 - **GitHub:** [github.com/Chetanpatil03](https://github.com/Chetanpatil03)  
-- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-
----
-
-⭐ **Don’t forget to star this repo if you like it!**
+- **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link
