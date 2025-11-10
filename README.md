@@ -32,8 +32,8 @@ The goal of this project is to present my professional background and technical 
 | **JavaScript (ES6)** | Interactivity and animations |
 
 ---
-```
 ## 📂 Project Structure
+```
 ├── img/                # Folder containing images used in the site
 ├── Chetan_cv.pdf       # My resume ├── index.html          # Main HTML file 
 ├── style.css           # CSS styling ├── script.js           # JavaScript for
@@ -53,4 +53,4 @@ If you’d like to connect or collaborate, feel free to reach out:
 - **Name:** Chetan Patil  
 - **Email:** bachchhavchetan45@gmail.com 
 - **GitHub:** [github.com/Chetanpatil03](https://github.com/Chetanpatil03)  
-  - **LinkedIn:**(linkedin.com/in/chetan-bachchhav03) [www.linkedin.com/in/chetan-bachchhav03]
+- **LinkedIn:** [www.linkedin.com/in/chetan-bachchhav03]
