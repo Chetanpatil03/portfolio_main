@@ -18,7 +18,7 @@ The goal of this project is to present my professional background and technical 
 - 🧾 Displays my **CV / Resume**
 - 💡 Highlights **Projects** and **Skills**
 - 📱 Fully **Responsive** design for mobile and desktop
-- ✉️ Contact section for easy communication
+- ✉️ Contact via hyperlinks(email, LinkedIn, Contact no. etc)
 - ⚡ Smooth animations and interactions using JavaScript
 
 ---
@@ -53,4 +53,4 @@ If you’d like to connect or collaborate, feel free to reach out:
 - **Name:** Chetan Patil  
 - **Email:** bachchhavchetan45@gmail.com 
 - **GitHub:** [github.com/Chetanpatil03](https://github.com/Chetanpatil03)  
-- **LinkedIn:** add here 
+  - **LinkedIn:**(linkedin.com/in/chetan-bachchhav03) [www.linkedin.com/in/chetan-bachchhav03]
