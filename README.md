@@ -32,13 +32,13 @@ The goal of this project is to present my professional background and technical 
 | **JavaScript (ES6)** | Interactivity and animations |
 
 ---
-
+```
 ## 📂 Project Structure
 ├── img/                # Folder containing images used in the site
 ├── Chetan_cv.pdf       # My resume ├── index.html          # Main HTML file 
 ├── style.css           # CSS styling ├── script.js           # JavaScript for
 
-
+```
 ---
 
 ## 📸 Preview
